@@ -17,6 +17,6 @@ public class ApiConstant {
     public static final String USER_CHANGE_PASSWORD ="/change-password";
     public static final String USER_VERIFY ="/verify";
 
-    public static final String siteURL= "http://localhost:4200";
-    public static final String RESET_URL = "http://localhost:4200/reset";
+    public static final String siteURL= "https://cvmaker-web.onrender.com/";
+    public static final String RESET_URL = "https://cvmaker-web.onrender.com/reset";
 }
